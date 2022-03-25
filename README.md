@@ -1,2 +1,2 @@
-# React-Typescript
+# Typescript-parctice
 Created with CodeSandbox
